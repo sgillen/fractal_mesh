@@ -5,8 +5,8 @@ This code essentially performs analysis on policies developed in prior work, see
 
 - common.py - Contains functions needed everywhere.
 - poincare_mesh_one.ipynb - Takes an rl policy and constructs a poincare mesh
-- sT_analysis.ipynp - Takes a mesh file and determines MFPT , eigen values etc.
-- validate_mfpt - performs monte carlo trials to validate the MFPT
+- sT_analysis.ipynb - Takes a mesh file and determines MFPT , eigen values etc.
+- validate_mfpt.ipynb - performs monte carlo trials to validate the MFPT
 - requirments.txt - Requirements file to install dependencies.
 
 
